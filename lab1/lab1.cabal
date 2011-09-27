@@ -1,0 +1,13 @@
+Name:           frankchn-cs240h-lab1
+Version:        1.0
+Description:    CS240H Lab 1
+License:        GPL
+Author:         Frank Chen
+Maintainer:     frankchn@cs.stanford.edu
+Build-Type:     Simple
+Cabal-Version:  >=1.2
+
+Executable lab1
+  Main-is:	lab1.hs
+  Build-Depends:	base >= 3 && < 5, containers
+
